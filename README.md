@@ -1,4 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--co5LdVu9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_650/https://i2.wp.com/grantnorwood.com/app/uploads/2017/07/webdriver-io-logo.png%3Fw%3D1680%26ssl%3D1)](https://maurolaurenzi.io)
 <h1 align="center">Hi 👋, I'm Mauro</h1>
 <h3 align="center">A Test Automation Engineer/SDET from Argentina</h3>
 
