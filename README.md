@@ -5,16 +5,8 @@
 
 - 🌱 Currently learning **Appium and Cypress!**
 
-### Latest Dev.to Post
+### My latest Dev.to Technical Article
 [![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=mauro_laurenzi)](https://dev.to/mauro_laurenzi)
-<details>
-  <summary>View Markdown</summary>
-  
-  ```md
-[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=mauro_laurenzi)](https://dev.to/mauro_laurenzi)
-```
-
-</details>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
