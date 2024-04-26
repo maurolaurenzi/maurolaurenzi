@@ -5,9 +5,16 @@
 
 - 🌱 Currently learning **Appium and Cypress!**
 
-<h3 align="left">My Dev.to technical articles:</h3>
-<p align="left">
-[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=mauro_laurenzi)]
+### Latest Dev.to Post
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=mauro_laurenzi)](https://dev.to/mauro_laurenzi)
+<details>
+  <summary>View Markdown</summary>
+  
+  ```md
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=mauro_laurenzi)](https://dev.to/mauro_laurenzi)
+```
+
+</details>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
