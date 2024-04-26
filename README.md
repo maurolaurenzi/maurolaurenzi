@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **Appium and Cypress!**
 
-### My latest Dev.to Technical Article
+### My latest Dev.to Technical Article:
 [![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=mauro_laurenzi)](https://dev.to/mauro_laurenzi)
   
 <h3 align="left">Connect with me:</h3>
