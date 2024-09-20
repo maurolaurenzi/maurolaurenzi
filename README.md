@@ -3,10 +3,7 @@
 
 - 🤖 I’m mostly experienced on **JavaScript, TypeScript, Python, WebdriverIO, Playwright and Selenium**
 
-- 🌱 Currently learning **Appium and Cypress!**
-
-### My latest DEV.to Post:
-[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=mauro_laurenzi)](https://dev.to/mauro_laurenzi)
+- 🌱 Currently learning about **Appium**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
