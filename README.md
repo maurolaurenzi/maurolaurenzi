@@ -3,7 +3,6 @@
 
 - 🤖 I’m mostly experienced on **JavaScript, TypeScript, Python, WebdriverIO, Playwright and Selenium**
 
-- 🌱 Currently learning about **Appium**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
