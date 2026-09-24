@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mauro</h1>
+<h1 align="center">Hi, I'm Mauro</h1>
 <h3 align="center">A Test Automation Engineer/SDET from Argentina</h3>
 
 - 🤖 I’m mostly experienced on **JavaScript, TypeScript, Python, WebdriverIO, Playwright and Appium**
